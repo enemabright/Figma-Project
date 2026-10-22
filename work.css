@@ -6,11 +6,12 @@
     color: white;
     font-family: Arial;
     width: 150px;
-    height: 30px;
+    height: 40px;
     border-radius: 50px;
     text-align: center;
-    padding-top: 10px;
-    margin-top: 15px;   
+    margin-top: 15px;  
+    margin: auto; 
+    border: none;
 }
 .nav{
     display: flex;
@@ -67,23 +68,25 @@
     color: white;
     font-family: Arial;
     width: 150px;
-    height: 30px;
+    height: 40px;
     border-radius: 50px;
     text-align: center;
-    padding-top: 10px;
-    
+    margin-top: 15px;  
+    margin: auto; 
+    border: none;
 }
 #see{
-    background-color:white;
-    color:rgb(96, 28, 160);  ;
+    background-color:white; 
+    color: rgb(96, 28, 160);
     font-family: Arial;
     width: 150px;
-    height: 30px;
+    height: 40px;
     border-radius: 50px;
     text-align: center;
-    padding-top: 10px;
-    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
-    margin-right: 20px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    margin-top: 15px;  
+    margin: auto; 
+    border: none;
 }
 #lowimage{
     text-align: center;
@@ -200,7 +203,7 @@
     text-align: left;
     margin-top: 80px;
     width: 70%;
-    height: 220px;
+    height: 250px;
 }
 #T1,#T2,#T3{
     border-radius: 50%;
@@ -212,31 +215,33 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    margin: 0;
-    padding: 0;
+    margin-top: 7px;
     line-height: 2;
+    margin: 10px;
 }
 #head1,#head2,#head3{
     font-size: 16px;
     font-weight: 900;
     font-family: Arial;
+    padding-left: 15px;
 }
 #para1,#para2,#para3{
     font-size: 14px;
     font-family: serif;
+    padding-left: 15px;
 }
 #para2{
-    padding-bottom: 20px;
+    padding-bottom: 8px;
 }
 .mini{
     display: flex;
     gap: 5px;
     font-size: 14px;
+
 }
 #simage{
     padding-top: 14px;
 }
-
 
 
 /*3rd Group Cards Section*/
@@ -306,15 +311,15 @@
 }
 #start2{
     background-color:white; 
-    color:rgb(96, 28, 160) ;
+    color: rgb(96, 28, 160);
     font-family: Arial;
     width: 150px;
-    height: 30px;
+    height: 40px;
     border-radius: 50px;
     text-align: center;
-    padding-top: 10px;
-    margin: auto;
-    font-size: 14px;
+    border: none;
+    margin-top: 15px;  
+    margin: auto; 
 }
 
 
