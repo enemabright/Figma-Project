@@ -12,6 +12,7 @@
     margin-top: 15px;  
     margin: auto; 
     border: none;
+    cursor: pointer;
 }
 .nav{
     display: flex;
@@ -74,6 +75,7 @@
     margin-top: 15px;  
     margin: auto; 
     border: none;
+    cursor: pointer;
 }
 #see{
     background-color:white; 
@@ -87,6 +89,7 @@
     margin-top: 15px;  
     margin: auto; 
     border: none;
+    cursor: pointer;
 }
 #lowimage{
     text-align: center;
@@ -320,6 +323,7 @@
     border: none;
     margin-top: 15px;  
     margin: auto; 
+    cursor: pointer;
 }
 
 
@@ -343,6 +347,7 @@
     background-color: #F8F9FA;
     text-align: left;
     padding: 30px;
+    cursor: pointer;
 }
 .flexQ{
     display: flex;
@@ -365,6 +370,7 @@
     font-family: arial;
     font-size: 16px;
     padding-left: 70px;
+    cursor: pointer;
 }
 .question4{
     margin-bottom: 200px;
